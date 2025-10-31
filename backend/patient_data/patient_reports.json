@@ -1,0 +1,828 @@
+[
+  {
+    "patient_name": "Morgan Miller",
+    "discharge_date": "2025-10-27",
+    "diagnosis": "Hypertensive Nephrosclerosis",
+    "medications": [
+      "Diuretic",
+      "Erythropoietin",
+      "ACE inhibitor"
+    ],
+    "dietary_restrictions": [
+      "Low potassium",
+      "Fluid restriction",
+      "Low phosphorus"
+    ],
+    "follow_up_instructions": [
+      "Bring medication list to next visit",
+      "Monitor blood pressure daily"
+    ],
+    "warning_signs": [
+      "Swelling in legs or face",
+      "Shortness of breath",
+      "Chest pain"
+    ],
+    "discharge_instructions": [
+      "Record daily weight",
+      "Avoid NSAIDs",
+      "Keep low-salt diet"
+    ]
+  },
+  {
+    "patient_name": "Sam Lee",
+    "discharge_date": "2025-10-08",
+    "diagnosis": "Nephrotic Syndrome",
+    "medications": [
+      "Diuretic",
+      "Vitamin D"
+    ],
+    "dietary_restrictions": [
+      "Low potassium",
+      "Low sodium",
+      "Fluid restriction"
+    ],
+    "follow_up_instructions": [
+      "Bring medication list to next visit",
+      "Follow up with nephrology in 2 weeks",
+      "Check BMP in 1 week"
+    ],
+    "warning_signs": [
+      "Chest pain",
+      "Decreased urine output",
+      "Shortness of breath"
+    ],
+    "discharge_instructions": [
+      "Take medications as prescribed",
+      "Record daily weight"
+    ]
+  },
+  {
+    "patient_name": "Casey Lee",
+    "discharge_date": "2025-10-23",
+    "diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "Phosphate binder",
+      "ARB",
+      "Erythropoietin",
+      "Diuretic"
+    ],
+    "dietary_restrictions": [
+      "Low potassium"
+    ],
+    "follow_up_instructions": [
+      "Check BMP in 1 week",
+      "Follow up with nephrology in 2 weeks"
+    ],
+    "warning_signs": [
+      "Swelling in legs or face",
+      "Chest pain"
+    ],
+    "discharge_instructions": [
+      "Avoid NSAIDs",
+      "Record daily weight",
+      "Keep low-salt diet"
+    ]
+  },
+  {
+    "patient_name": "Avery Taylor",
+    "discharge_date": "2025-09-27",
+    "diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Vitamin D",
+      "Diuretic",
+      "Erythropoietin",
+      "ARB"
+    ],
+    "dietary_restrictions": [
+      "Fluid restriction",
+      "Low phosphorus",
+      "Low sodium"
+    ],
+    "follow_up_instructions": [
+      "Monitor blood pressure daily",
+      "Check BMP in 1 week",
+      "Bring medication list to next visit"
+    ],
+    "warning_signs": [
+      "Chest pain",
+      "Swelling in legs or face",
+      "Shortness of breath"
+    ],
+    "discharge_instructions": [
+      "Record daily weight",
+      "Avoid NSAIDs",
+      "Take medications as prescribed"
+    ]
+  },
+  {
+    "patient_name": "Sam Wilson",
+    "discharge_date": "2025-10-25",
+    "diagnosis": "Hypertensive Nephrosclerosis",
+    "medications": [
+      "ACE inhibitor",
+      "ARB"
+    ],
+    "dietary_restrictions": [
+      "Low potassium"
+    ],
+    "follow_up_instructions": [
+      "Check BMP in 1 week",
+      "Follow up with nephrology in 2 weeks",
+      "Monitor blood pressure daily"
+    ],
+    "warning_signs": [
+      "Swelling in legs or face",
+      "Shortness of breath",
+      "Decreased urine output"
+    ],
+    "discharge_instructions": [
+      "Avoid NSAIDs",
+      "Record daily weight",
+      "Take medications as prescribed"
+    ]
+  },
+  {
+    "patient_name": "Morgan Davis",
+    "discharge_date": "2025-09-01",
+    "diagnosis": "Diabetic Nephropathy",
+    "medications": [
+      "Diuretic",
+      "Vitamin D",
+      "Phosphate binder",
+      "ACE inhibitor"
+    ],
+    "dietary_restrictions": [
+      "Low sodium",
+      "Low potassium"
+    ],
+    "follow_up_instructions": [
+      "Monitor blood pressure daily",
+      "Check BMP in 1 week",
+      "Follow up with nephrology in 2 weeks"
+    ],
+    "warning_signs": [
+      "Shortness of breath",
+      "Decreased urine output"
+    ],
+    "discharge_instructions": [
+      "Keep low-salt diet",
+      "Avoid NSAIDs",
+      "Record daily weight"
+    ]
+  },
+  {
+    "patient_name": "Alex Davis",
+    "discharge_date": "2025-10-17",
+    "diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Erythropoietin",
+      "Phosphate binder",
+      "Vitamin D"
+    ],
+    "dietary_restrictions": [
+      "Low phosphorus",
+      "Low sodium",
+      "Low potassium"
+    ],
+    "follow_up_instructions": [
+      "Monitor blood pressure daily",
+      "Check BMP in 1 week"
+    ],
+    "warning_signs": [
+      "Chest pain",
+      "Decreased urine output"
+    ],
+    "discharge_instructions": [
+      "Keep low-salt diet",
+      "Record daily weight",
+      "Avoid NSAIDs"
+    ]
+  },
+  {
+    "patient_name": "Riley Davis",
+    "discharge_date": "2025-10-13",
+    "diagnosis": "Hypertensive Nephrosclerosis",
+    "medications": [
+      "Vitamin D",
+      "ARB",
+      "Erythropoietin"
+    ],
+    "dietary_restrictions": [
+      "Fluid restriction"
+    ],
+    "follow_up_instructions": [
+      "Monitor blood pressure daily",
+      "Bring medication list to next visit",
+      "Check BMP in 1 week"
+    ],
+    "warning_signs": [
+      "Decreased urine output",
+      "Chest pain",
+      "Swelling in legs or face"
+    ],
+    "discharge_instructions": [
+      "Take medications as prescribed",
+      "Keep low-salt diet",
+      "Record daily weight"
+    ]
+  },
+  {
+    "patient_name": "Riley Brown",
+    "discharge_date": "2025-09-09",
+    "diagnosis": "Hypertensive Nephrosclerosis",
+    "medications": [
+      "Diuretic",
+      "Erythropoietin",
+      "ACE inhibitor",
+      "Phosphate binder"
+    ],
+    "dietary_restrictions": [
+      "Low potassium",
+      "Low sodium",
+      "Low phosphorus"
+    ],
+    "follow_up_instructions": [
+      "Monitor blood pressure daily",
+      "Follow up with nephrology in 2 weeks"
+    ],
+    "warning_signs": [
+      "Chest pain",
+      "Decreased urine output",
+      "Swelling in legs or face"
+    ],
+    "discharge_instructions": [
+      "Record daily weight",
+      "Take medications as prescribed",
+      "Keep low-salt diet"
+    ]
+  },
+  {
+    "patient_name": "Riley Brown",
+    "discharge_date": "2025-10-29",
+    "diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "ACE inhibitor",
+      "Erythropoietin",
+      "Phosphate binder"
+    ],
+    "dietary_restrictions": [
+      "Low sodium"
+    ],
+    "follow_up_instructions": [
+      "Bring medication list to next visit",
+      "Follow up with nephrology in 2 weeks",
+      "Monitor blood pressure daily"
+    ],
+    "warning_signs": [
+      "Chest pain",
+      "Decreased urine output",
+      "Shortness of breath"
+    ],
+    "discharge_instructions": [
+      "Take medications as prescribed",
+      "Record daily weight"
+    ]
+  },
+  {
+    "patient_name": "Riley Miller",
+    "discharge_date": "2025-10-30",
+    "diagnosis": "Nephrotic Syndrome",
+    "medications": [
+      "Erythropoietin",
+      "Vitamin D",
+      "Phosphate binder",
+      "ARB"
+    ],
+    "dietary_restrictions": [
+      "Fluid restriction",
+      "Low phosphorus",
+      "Low potassium"
+    ],
+    "follow_up_instructions": [
+      "Follow up with nephrology in 2 weeks",
+      "Monitor blood pressure daily",
+      "Check BMP in 1 week"
+    ],
+    "warning_signs": [
+      "Swelling in legs or face",
+      "Chest pain"
+    ],
+    "discharge_instructions": [
+      "Avoid NSAIDs",
+      "Take medications as prescribed",
+      "Keep low-salt diet"
+    ]
+  },
+  {
+    "patient_name": "Avery Johnson",
+    "discharge_date": "2025-10-24",
+    "diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "Diuretic",
+      "ARB"
+    ],
+    "dietary_restrictions": [
+      "Low sodium"
+    ],
+    "follow_up_instructions": [
+      "Bring medication list to next visit",
+      "Check BMP in 1 week"
+    ],
+    "warning_signs": [
+      "Decreased urine output",
+      "Swelling in legs or face",
+      "Shortness of breath"
+    ],
+    "discharge_instructions": [
+      "Avoid NSAIDs",
+      "Record daily weight",
+      "Keep low-salt diet"
+    ]
+  },
+  {
+    "patient_name": "Taylor Taylor",
+    "discharge_date": "2025-10-04",
+    "diagnosis": "Nephrotic Syndrome",
+    "medications": [
+      "Diuretic",
+      "Vitamin D"
+    ],
+    "dietary_restrictions": [
+      "Low phosphorus"
+    ],
+    "follow_up_instructions": [
+      "Bring medication list to next visit",
+      "Check BMP in 1 week",
+      "Monitor blood pressure daily"
+    ],
+    "warning_signs": [
+      "Shortness of breath",
+      "Chest pain"
+    ],
+    "discharge_instructions": [
+      "Keep low-salt diet",
+      "Avoid NSAIDs"
+    ]
+  },
+  {
+    "patient_name": "Avery Anderson",
+    "discharge_date": "2025-10-13",
+    "diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "ARB",
+      "Erythropoietin"
+    ],
+    "dietary_restrictions": [
+      "Low potassium"
+    ],
+    "follow_up_instructions": [
+      "Check BMP in 1 week",
+      "Monitor blood pressure daily",
+      "Bring medication list to next visit"
+    ],
+    "warning_signs": [
+      "Decreased urine output",
+      "Shortness of breath",
+      "Chest pain"
+    ],
+    "discharge_instructions": [
+      "Avoid NSAIDs",
+      "Record daily weight"
+    ]
+  },
+  {
+    "patient_name": "Avery Moore",
+    "discharge_date": "2025-10-06",
+    "diagnosis": "Diabetic Nephropathy",
+    "medications": [
+      "Phosphate binder",
+      "Erythropoietin"
+    ],
+    "dietary_restrictions": [
+      "Low phosphorus"
+    ],
+    "follow_up_instructions": [
+      "Check BMP in 1 week",
+      "Monitor blood pressure daily",
+      "Follow up with nephrology in 2 weeks"
+    ],
+    "warning_signs": [
+      "Swelling in legs or face",
+      "Chest pain",
+      "Shortness of breath"
+    ],
+    "discharge_instructions": [
+      "Keep low-salt diet",
+      "Avoid NSAIDs"
+    ]
+  },
+  {
+    "patient_name": "Morgan Moore",
+    "discharge_date": "2025-09-26",
+    "diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "ARB",
+      "Phosphate binder"
+    ],
+    "dietary_restrictions": [
+      "Low sodium",
+      "Fluid restriction",
+      "Low potassium"
+    ],
+    "follow_up_instructions": [
+      "Monitor blood pressure daily",
+      "Follow up with nephrology in 2 weeks",
+      "Check BMP in 1 week"
+    ],
+    "warning_signs": [
+      "Decreased urine output",
+      "Shortness of breath",
+      "Chest pain"
+    ],
+    "discharge_instructions": [
+      "Take medications as prescribed",
+      "Avoid NSAIDs"
+    ]
+  },
+  {
+    "patient_name": "Riley Lee",
+    "discharge_date": "2025-10-02",
+    "diagnosis": "Nephrotic Syndrome",
+    "medications": [
+      "Vitamin D",
+      "ACE inhibitor",
+      "Phosphate binder"
+    ],
+    "dietary_restrictions": [
+      "Low phosphorus"
+    ],
+    "follow_up_instructions": [
+      "Check BMP in 1 week",
+      "Follow up with nephrology in 2 weeks",
+      "Bring medication list to next visit"
+    ],
+    "warning_signs": [
+      "Shortness of breath",
+      "Chest pain"
+    ],
+    "discharge_instructions": [
+      "Avoid NSAIDs",
+      "Take medications as prescribed",
+      "Keep low-salt diet"
+    ]
+  },
+  {
+    "patient_name": "Taylor Taylor",
+    "discharge_date": "2025-10-25",
+    "diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "Vitamin D",
+      "ARB"
+    ],
+    "dietary_restrictions": [
+      "Low potassium"
+    ],
+    "follow_up_instructions": [
+      "Follow up with nephrology in 2 weeks",
+      "Monitor blood pressure daily"
+    ],
+    "warning_signs": [
+      "Decreased urine output",
+      "Shortness of breath"
+    ],
+    "discharge_instructions": [
+      "Avoid NSAIDs",
+      "Take medications as prescribed",
+      "Keep low-salt diet"
+    ]
+  },
+  {
+    "patient_name": "Quinn Smith",
+    "discharge_date": "2025-09-28",
+    "diagnosis": "Hypertensive Nephrosclerosis",
+    "medications": [
+      "ACE inhibitor",
+      "Vitamin D"
+    ],
+    "dietary_restrictions": [
+      "Low sodium",
+      "Low potassium",
+      "Fluid restriction"
+    ],
+    "follow_up_instructions": [
+      "Check BMP in 1 week",
+      "Bring medication list to next visit"
+    ],
+    "warning_signs": [
+      "Shortness of breath",
+      "Swelling in legs or face",
+      "Decreased urine output"
+    ],
+    "discharge_instructions": [
+      "Keep low-salt diet",
+      "Take medications as prescribed",
+      "Record daily weight"
+    ]
+  },
+  {
+    "patient_name": "Morgan Johnson",
+    "discharge_date": "2025-09-18",
+    "diagnosis": "Nephrotic Syndrome",
+    "medications": [
+      "Erythropoietin",
+      "ACE inhibitor",
+      "Diuretic"
+    ],
+    "dietary_restrictions": [
+      "Low phosphorus"
+    ],
+    "follow_up_instructions": [
+      "Monitor blood pressure daily",
+      "Bring medication list to next visit"
+    ],
+    "warning_signs": [
+      "Chest pain",
+      "Decreased urine output",
+      "Swelling in legs or face"
+    ],
+    "discharge_instructions": [
+      "Take medications as prescribed",
+      "Record daily weight",
+      "Avoid NSAIDs"
+    ]
+  },
+  {
+    "patient_name": "Jamie Brown",
+    "discharge_date": "2025-10-18",
+    "diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "Vitamin D",
+      "Erythropoietin",
+      "Diuretic",
+      "ACE inhibitor"
+    ],
+    "dietary_restrictions": [
+      "Low phosphorus"
+    ],
+    "follow_up_instructions": [
+      "Check BMP in 1 week",
+      "Monitor blood pressure daily",
+      "Follow up with nephrology in 2 weeks"
+    ],
+    "warning_signs": [
+      "Swelling in legs or face",
+      "Decreased urine output"
+    ],
+    "discharge_instructions": [
+      "Avoid NSAIDs",
+      "Keep low-salt diet"
+    ]
+  },
+  {
+    "patient_name": "Taylor Johnson",
+    "discharge_date": "2025-09-17",
+    "diagnosis": "Nephrotic Syndrome",
+    "medications": [
+      "Erythropoietin",
+      "Phosphate binder"
+    ],
+    "dietary_restrictions": [
+      "Fluid restriction",
+      "Low potassium",
+      "Low phosphorus"
+    ],
+    "follow_up_instructions": [
+      "Follow up with nephrology in 2 weeks",
+      "Monitor blood pressure daily",
+      "Check BMP in 1 week"
+    ],
+    "warning_signs": [
+      "Chest pain",
+      "Swelling in legs or face"
+    ],
+    "discharge_instructions": [
+      "Take medications as prescribed",
+      "Avoid NSAIDs"
+    ]
+  },
+  {
+    "patient_name": "Avery Davis",
+    "discharge_date": "2025-09-07",
+    "diagnosis": "Nephrotic Syndrome",
+    "medications": [
+      "Erythropoietin",
+      "Diuretic",
+      "Vitamin D",
+      "ARB"
+    ],
+    "dietary_restrictions": [
+      "Low potassium",
+      "Fluid restriction",
+      "Low sodium"
+    ],
+    "follow_up_instructions": [
+      "Follow up with nephrology in 2 weeks",
+      "Bring medication list to next visit",
+      "Check BMP in 1 week"
+    ],
+    "warning_signs": [
+      "Shortness of breath",
+      "Chest pain",
+      "Decreased urine output"
+    ],
+    "discharge_instructions": [
+      "Record daily weight",
+      "Take medications as prescribed",
+      "Avoid NSAIDs"
+    ]
+  },
+  {
+    "patient_name": "Jamie Taylor",
+    "discharge_date": "2025-10-29",
+    "diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Vitamin D",
+      "Erythropoietin"
+    ],
+    "dietary_restrictions": [
+      "Low potassium",
+      "Fluid restriction",
+      "Low sodium"
+    ],
+    "follow_up_instructions": [
+      "Check BMP in 1 week",
+      "Follow up with nephrology in 2 weeks"
+    ],
+    "warning_signs": [
+      "Decreased urine output",
+      "Shortness of breath"
+    ],
+    "discharge_instructions": [
+      "Keep low-salt diet",
+      "Avoid NSAIDs",
+      "Take medications as prescribed"
+    ]
+  },
+  {
+    "patient_name": "Alex Taylor",
+    "discharge_date": "2025-10-03",
+    "diagnosis": "Hypertensive Nephrosclerosis",
+    "medications": [
+      "Vitamin D",
+      "ACE inhibitor"
+    ],
+    "dietary_restrictions": [
+      "Low potassium",
+      "Fluid restriction"
+    ],
+    "follow_up_instructions": [
+      "Follow up with nephrology in 2 weeks",
+      "Bring medication list to next visit",
+      "Monitor blood pressure daily"
+    ],
+    "warning_signs": [
+      "Decreased urine output",
+      "Shortness of breath",
+      "Chest pain"
+    ],
+    "discharge_instructions": [
+      "Keep low-salt diet",
+      "Record daily weight",
+      "Take medications as prescribed"
+    ]
+  },
+  {
+    "patient_name": "Sam Taylor",
+    "discharge_date": "2025-10-07",
+    "diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Phosphate binder",
+      "ACE inhibitor",
+      "Vitamin D"
+    ],
+    "dietary_restrictions": [
+      "Low phosphorus"
+    ],
+    "follow_up_instructions": [
+      "Follow up with nephrology in 2 weeks",
+      "Bring medication list to next visit",
+      "Monitor blood pressure daily"
+    ],
+    "warning_signs": [
+      "Chest pain",
+      "Shortness of breath",
+      "Decreased urine output"
+    ],
+    "discharge_instructions": [
+      "Avoid NSAIDs",
+      "Record daily weight",
+      "Keep low-salt diet"
+    ]
+  },
+  {
+    "patient_name": "Jamie Wilson",
+    "discharge_date": "2025-09-19",
+    "diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Erythropoietin",
+      "Phosphate binder",
+      "Vitamin D"
+    ],
+    "dietary_restrictions": [
+      "Low potassium"
+    ],
+    "follow_up_instructions": [
+      "Follow up with nephrology in 2 weeks",
+      "Monitor blood pressure daily"
+    ],
+    "warning_signs": [
+      "Shortness of breath",
+      "Decreased urine output",
+      "Chest pain"
+    ],
+    "discharge_instructions": [
+      "Avoid NSAIDs",
+      "Record daily weight"
+    ]
+  },
+  {
+    "patient_name": "Quinn Davis",
+    "discharge_date": "2025-09-21",
+    "diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Diuretic",
+      "Erythropoietin"
+    ],
+    "dietary_restrictions": [
+      "Low phosphorus"
+    ],
+    "follow_up_instructions": [
+      "Bring medication list to next visit",
+      "Check BMP in 1 week",
+      "Follow up with nephrology in 2 weeks"
+    ],
+    "warning_signs": [
+      "Chest pain",
+      "Shortness of breath",
+      "Swelling in legs or face"
+    ],
+    "discharge_instructions": [
+      "Keep low-salt diet",
+      "Record daily weight"
+    ]
+  },
+  {
+    "patient_name": "Taylor Davis",
+    "discharge_date": "2025-10-17",
+    "diagnosis": "Nephrotic Syndrome",
+    "medications": [
+      "Phosphate binder",
+      "Vitamin D"
+    ],
+    "dietary_restrictions": [
+      "Low phosphorus"
+    ],
+    "follow_up_instructions": [
+      "Monitor blood pressure daily",
+      "Check BMP in 1 week",
+      "Follow up with nephrology in 2 weeks"
+    ],
+    "warning_signs": [
+      "Chest pain",
+      "Swelling in legs or face",
+      "Shortness of breath"
+    ],
+    "discharge_instructions": [
+      "Record daily weight",
+      "Take medications as prescribed"
+    ]
+  },
+  {
+    "patient_name": "Sam Wilson",
+    "discharge_date": "2025-10-20",
+    "diagnosis": "Diabetic Nephropathy",
+    "medications": [
+      "Vitamin D",
+      "Phosphate binder",
+      "ARB"
+    ],
+    "dietary_restrictions": [
+      "Low sodium",
+      "Fluid restriction"
+    ],
+    "follow_up_instructions": [
+      "Monitor blood pressure daily",
+      "Follow up with nephrology in 2 weeks",
+      "Bring medication list to next visit"
+    ],
+    "warning_signs": [
+      "Swelling in legs or face",
+      "Decreased urine output",
+      "Shortness of breath"
+    ],
+    "discharge_instructions": [
+      "Avoid NSAIDs",
+      "Take medications as prescribed"
+    ]
+  }
+]
