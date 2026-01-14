@@ -1,12 +1,6 @@
 # 🩺 Post Discharge Medical AI Assistant (POC)
 ### DataSmith AI – GenAI Intern Assignment
-
-**Developer:** Roobika V  
-**Role:** GenAI Intern (Assignment Submission)  
-**Duration:** 2–3 Days  
-**Company:** DataSmith AI  
-**Purpose:** Proof of Concept – Post Discharge Medical AI Assistant  
-
+  
 ---
 
 ## 📘 Project Overview
@@ -222,4 +216,5 @@ Always consult qualified healthcare professionals for any medical concerns.
 
 🎥 Watch the project demo here:
 Demo Video Link: https://drive.google.com/drive/folders/17Ns_InCF0B2JIUHf0oYv0BFMSLZpKQTk?usp=sharing
+
 
